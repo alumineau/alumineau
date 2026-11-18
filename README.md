@@ -4,7 +4,7 @@ Je liste ici mes projets en cours, professionnels et personnels:
 
 - BTS SIO à IRIS Nice
 
-- Portfolio web: alexandrelumineau.fr
+- Portfolio web: [alexandrelumineau.fr](http://alexandrelumineau.fr/)
 
 - LinkedIn: https://www.linkedin.com/in/alexandre-lumineau-839023208/
 
