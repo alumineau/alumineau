@@ -1,6 +1,6 @@
 ## Bonjour,
 
-Je liste ici mes projets en cours, professionnels et personnels:
+Liste de mes projets en cours, professionnels et personnels:
 
 - BTS SIO à IRIS Nice
 
