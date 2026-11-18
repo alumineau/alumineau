@@ -4,7 +4,9 @@ Je liste ici mes projets en cours, professionnels et personnels:
 
 - BTS SIO à IRIS Nice
 
-- Site web portfolio
+- Portfolio web: alexandrelumineau.fr
+
+- LinkedIn: https://www.linkedin.com/in/alexandre-lumineau-839023208/
 
 - Site web vitrine pour le Laboratoire Ambulant des Mobilités Alternatives ( https://www.linkedin.com/company/lama06/about/ )
 
